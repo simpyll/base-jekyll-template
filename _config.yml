@@ -3,7 +3,7 @@
 
 title: Base
 url: "https://simpyll.github.io/base-jekyll-template/"
-baseurl: "base-jekyll-template"
+baseurl: "/base-jekyll-template"
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
